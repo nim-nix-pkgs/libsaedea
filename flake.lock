@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652391178,
-        "narHash": "sha256-LAD+17fqJLiWz43d3yKdkF2FY7e9Xqn4Cf7tQNXWBr0=",
+        "lastModified": 1652791594,
+        "narHash": "sha256-mbTNvKo+TPnZldDL5JcZ9/VANMHPetlaShkWiZf+O/Y=",
         "owner": "nim-nix-pkgs",
         "repo": "libsaedea",
-        "rev": "85dbabb4ce5cc79abb5d2c05886f386b1a0c2ac0",
+        "rev": "3f7319b7c3df7391d22890be7ee542fb9de3f4d8",
         "type": "github"
       },
       "original": {
